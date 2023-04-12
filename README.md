@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/466317/231567467-b2798f21-d43a-434d-a7
 
 2. Clone this
 ```
-git clone https://github.com/realrasengan/blind.sh
+git clone https://github.com/realrasengan/vtphonehome
 ```
 
 3. Install sox, lame and jq
