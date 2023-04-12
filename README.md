@@ -6,6 +6,10 @@ This asks OpenAI to transcribe your voice and simply puts whatever you said into
 
 
 
+https://user-images.githubusercontent.com/466317/231567467-b2798f21-d43a-434d-a7b3-46a2abc58432.mp4
+
+
+
 ## Instructions
 
 1. Get homebrew
